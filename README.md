@@ -25,18 +25,6 @@
 </div>
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yudsetiawann&show_icons=true&theme=transparent&hide_border=true&title_color=3366FF&text_color=999&icon_color=3366FF&count_private=true" alt="Yudi's Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudsetiawann&layout=compact&theme=transparent&hide_border=true&title_color=3366FF&text_color=999&icon_color=3366FF" alt="Top Languages" width="400" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <h3 align="center">🤝 Let's Connect</h3>
 

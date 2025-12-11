@@ -21,7 +21,7 @@
 <h3 align="center">🛠️ Technical Arsenal</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,vscode,postman,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,git,vscode,postman,figma&perline=10" />
 </div>
 <br/>
 
@@ -41,13 +41,13 @@
 <h3 align="center">🤝 Let's Connect</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/USERNAME_ANDA" target="_blank">
+  <a href="https://linkedin.com/in/yudsetiawann" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:emailanda@gmail.com" target="_blank">
+  <a href="mailto:yudsetiawann@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://yudstwan.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
 </div>
